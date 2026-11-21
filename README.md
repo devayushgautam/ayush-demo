@@ -1,3 +1,4 @@
 # ayush-demo
-this is a blank repo.
-author - Ayush Gautam
+This is my first repo.
+<br>
+Author: Ayush Gautam
